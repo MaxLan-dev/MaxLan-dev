@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maksym Lan @MaxLan-dev
-- 👀 I’m interested in astrophysics, front end web-site development,  software engineering 
+- 👀 I’m interested in ai, front end web-site development,  software engineering 
 - 🌱 I’m currently learning Javascript, Computer Science at the University of Manitoba
 - 💞️ I’m looking to collaborate on a project involving Web development
 - 📫 How to reach me telegram @MaksymLan email lanmaksym@gmail.com
