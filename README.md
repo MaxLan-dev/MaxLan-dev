@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm Maksym Lan, a passionate computer science student at t
 Education
 Bachelor of Computer Science
 University of Manitoba, Winnipeg, MB
-January 2022 - August 2025 (Predicted)
+January 2023 - August 2025 (Predicted)
 GPA: 3.92/4.5
 
 Experience
