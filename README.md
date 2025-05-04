@@ -4,7 +4,7 @@
 I'm Maksym Lan, a passionate Computer Science student at the **University of Manitoba** (graduating **August 2025**), specializing in **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Full-Stack Development**.  
 With a **3.92/4.5 GPA**, I am a *University Speedrun* enthusiast, completing a 4-year program in just **2.5 years**.  
 As a **leader in tech clubs**, a **hackathon enthusiast**, and a **co-founder of innovative startups**, I love building things that matter.  
-Also, check out my website to learn more about the project and other things: [https://maxlan-dev.github.io/experience](https://maxlan-dev.github.io/experience)
+Also, check out my website to learn more about the project and other things: [https://maxlan-dev.github.io](https://maxlan-dev.github.io)
 
 🌟 **Explore my projects, connect with me, and let’s build something amazing together!**
 
