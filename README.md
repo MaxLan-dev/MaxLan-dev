@@ -94,7 +94,7 @@ Let’s collaborate on innovative projects or discuss tech, ML or whatnot!
 - 📫 **Email:** lanmaksym@gmail.com  
 - 🌐 **GitHub:** [MaxLan-dev](https://github.com/MaxLan-dev)  
 - 💼 **LinkedIn:** [maksym-lan](https://www.linkedin.com/in/maksym-lan/)  
-- 🧭 **Website:** [maxlan-dev.github.io/experience](https://maxlan-dev.github.io/experience)
+- 🧭 **Website:** [maxlan-dev.github.io](https://maxlan-dev.github.io)
 
 ---
 
