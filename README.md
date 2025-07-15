@@ -101,10 +101,6 @@ Let’s collaborate on innovative projects or discuss tech, ML or whatnot!
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaxLan-dev&show_icons=true&theme=tokyonight&hide_rank=false" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxLan-dev&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
