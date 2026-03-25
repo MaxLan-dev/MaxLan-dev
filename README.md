@@ -4,14 +4,14 @@
 </div>
 
 👋 **Hi there!** I'm Maksym Lan, a **Computer Science graduate** from the **University of Manitoba** (graduated **August 2025**), specializing in **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Full-Stack Development**.  
-With a **3.92/4.5 GPA** 🎓, I'm a *University Speedrun* enthusiast, completing a 4-year program in just **2.5 years** ⚡.  
-As a **Software Developer at Online Business Systems** 💼, **Principal Software Developer at GY Tea** ☕, **co-founder and CEO of GroupBuy** 🚀, and **former executive of tech clubs** 🤝, I love building things that matter.  
+With a **3.90/4.5 GPA** 🎓, I'm a *University Speedrun* enthusiast, completing a 4-year program in just **2.5 years** ⚡.  
+As a **Software Developer at CGI** (formerly **Online Business Systems**) 💼, **Principal Software Developer at GY Tea** ☕, **co-founder and CEO of GroupBuy** 🚀, and **former executive of tech clubs** 🤝, I love building things that matter.  
 
 🌐 Check out my [personal website](https://maxlan-dev.github.io) for more on my projects and passions!  
 
 🌟 **Explore my repos, connect, and let's collaborate on AI-driven innovations!**  
 
-![Visitors](https://visit-counter.itsmeow.dev/visit/2025/MaxLan-dev)  
+![Visitors](https://visit-counter.itsmeow.dev/visit/2026/MaxLan-dev)  
 
 ---
 
@@ -23,7 +23,7 @@ As a **Software Developer at Online Business Systems** 💼, **Principal Softwar
 **Bachelor of Computer Science**, Minor in Mathematics and Statistics with Distinction  
 📍 *University of Manitoba, Winnipeg, MB, Canada*  
 🗓 *Jan 2023 – Aug 2025*  
-📊 *GPA: 3.9/4.5*  
+📊 *GPA: 3.90 / 4.5*  
 
 - **University Speedrun:** Completed a 4-year degree in 2.5 years through strategic course planning, maintaining high academic performance while leading clubs and professional projects. 🏃‍♂️  
 - **Dean's Honour List:** Awarded for exceptional academic standing in Jan, May, Aug 2024, Jan 2025, and May 2025. 🏅  
@@ -53,59 +53,59 @@ As a **Software Developer at Online Business Systems** 💼, **Principal Softwar
   </tr>
   <tr>
     <td align="left"><img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=FFFFFF" alt=".NET" /> Software Developer</td>
-    <td align="left">Online Business Systems</td>
+    <td align="left">CGI (formerly Online Business Systems)</td>
     <td align="left">Winnipeg, Canada</td>
     <td align="left">Aug 2025 – Present</td>
-    <td align="left">Lead development of multi-tenant microservice applications using .NET Core and Angular. Architected scalable microservice patterns, reducing deployment time by 40% and achieving 99.99% uptime. Optimized database queries and API performance, reducing response times by 35%. 🚀</td>
+    <td align="left">Multi-tenant enterprise apps on AMS (MREA, Mass Ingenuity): React, .NET microservices, SQL Server, Angular, Vue.js, Azure. Architected dashboards and phone-provider microservices; doubled AI accuracy from baseline. Optimized Azure DevOps &amp; Data Factory ETL (~2× gains, resolved longstanding data issues). Primary implementer on Government of Manitoba eLicensing Admin Portal (4-person team within a 70+ person program); Law Society of Alberta professional development platform. 🚀</td>
   </tr>
   <tr>
     <td align="left"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React" /> Principal Software Developer</td>
     <td align="left">GY Tea</td>
     <td align="left">Winnipeg, Canada</td>
     <td align="left">Sep 2025 – Present</td>
-    <td align="left">Architected and developed a full-stack e-commerce platform from scratch using React Router v7, TypeScript, Supabase, and Netlify. Built product catalog, shopping cart, secure Square payment processing, order management, and complete admin dashboard. 🛒</td>
+    <td align="left">Architected full-stack e-commerce: catalog, cart with guest checkout, Square payments, auth, orders, reviews, blog, newsletter, and full admin dashboard. Stack: React Router v7, TypeScript, Supabase, Netlify Functions. 🛒</td>
   </tr>
   <tr>
     <td align="left"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="Python" /> Summer Student Technician</td>
     <td align="left">University of Manitoba</td>
     <td align="left">Winnipeg, Canada</td>
     <td align="left">May 2025 – Aug 2025</td>
-    <td align="left">Created automated wheat plant infection detection system using Python, Skimage, and Matplotlib for hyperspectral image analysis. Developed image-clearing algorithm with NumPy. Authored research paper in LaTeX. 🌾</td>
+    <td align="left">Automated wheat plant infection detection from hyperspectral imagery (Python, skimage, matplotlib, NumPy clearing pipeline). Publication in preparation. 🌾</td>
   </tr>
   <tr>
     <td align="left"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF" alt="Django" /> Junior AI Software Developer</td>
     <td align="left">Resilient AG</td>
     <td align="left">Winnipeg, Canada</td>
     <td align="left">Apr 2024 – Present</td>
-    <td align="left">Refined AI-powered MVP to production-ready state using Django, SQLAlchemy, and Python, achieving 99.999% accuracy in SQL-to-language conversion. Enhanced UI with UX/UI principles, increasing satisfaction by 50%. Developed scalable backend supporting 10,000+ concurrent users. 🤖</td>
+    <td align="left">Production RAG / LLM platform: Django, SQLAlchemy, LlamaIndex, Qdrant. SQL-to-language converter at 99.999% accuracy with DB safety; UX/UI uplift (~50% satisfaction); 10,000+ concurrent users; vector DB admin tooling for knowledge bases. 🤖</td>
   </tr>
   <tr>
-    <td align="left">CEO & Developer</td>
+    <td align="left">CEO &amp; Developer</td>
     <td align="left">GroupBuy (SaaS Startup)</td>
     <td align="left">Winnipeg, Canada</td>
     <td align="left">Feb 2025 – Present</td>
-    <td align="left">Co-founded AI-powered platform to aggregate small food business orders for cost-effective bulk purchases. Led design and development of MVP, overseeing all phases from concept to implementation. Built scalable SaaS solution using modern web technologies. 📈</td>
+    <td align="left">Co-founded AI-powered platform to aggregate small food business orders for cost-effective bulk purchases. Led MVP design and Agile delivery; Django and modern web stack. 📈</td>
   </tr>
   <tr>
     <td align="left">Vice President</td>
     <td align="left">U of Manitoba AI Club</td>
     <td align="left">Winnipeg, Canada</td>
     <td align="left">May 2024 – Aug 2025</td>
-    <td align="left">Organized workshops, industry & academia talks, managed a team of 6 executives. 🎤</td>
+    <td align="left">Organized workshops, industry &amp; academia talks, managed a team of 6 executives. 🎤</td>
   </tr>
   <tr>
-    <td align="left">Co-founder & Vice President</td>
+    <td align="left">Co-founder &amp; Vice President</td>
     <td align="left">U of Manitoba Programming Projects Club</td>
     <td align="left">Winnipeg, Canada</td>
     <td align="left">Nov 2023 – Aug 2025</td>
     <td align="left">Coordinated teams, mentored members, hosted events. 👥</td>
   </tr>
   <tr>
-    <td align="left">CEO & Developer</td>
+    <td align="left">CEO &amp; Developer</td>
     <td align="left">Prowir Startup</td>
     <td align="left">Lviv, Ukraine</td>
     <td align="left">Apr 2020 – Jan 2021</td>
-    <td align="left">Led product development, built site in JavaScript, pitched to global clients. 🌍</td>
+    <td align="left">Led product development, built site in JavaScript/TypeScript, pitched to global clients. 🌍</td>
   </tr>
   <tr>
     <td align="left">CEO</td>
@@ -116,7 +116,7 @@ As a **Software Developer at Online Business Systems** 💼, **Principal Softwar
   </tr>
 </table>
 
-**Skills Gained:** Leadership 🌟, Teamwork 🤝, Time Management ⏰, Communication 🗣️, Event Organization 🎉, Networking 🔗, Full-Stack Development 💻, AI/ML Implementation 🤖, Microservices Architecture 🏗️, Multi-tenant Systems 🔄, Cloud Computing ☁️, E-Commerce Development 🛍️.  
+**Skills Gained:** Leadership 🌟, Teamwork 🤝, Time Management ⏰, Communication 🗣️, Event Organization 🎉, Networking 🔗, Full-Stack Development 💻, AI/ML &amp; RAG 🤖, Microservices Architecture 🏗️, Multi-tenant Systems 🔄, Cloud &amp; Azure ☁️, E-Commerce Development 🛍️.  
 
 ---
 
@@ -130,6 +130,34 @@ As a **Software Developer at Online Business Systems** 💼, **Principal Softwar
     <th align="left">Link</th>
   </tr>
   <tr>
+    <td align="left"><img src="https://img.shields.io/badge/Eco--Pulse-GenAI_Genesis-228B22?style=for-the-badge&logo=leaflet&logoColor=FFFFFF" alt="Eco-Pulse" /> Eco-Pulse</td>
+    <td align="left">AI urban heat mitigation &amp; tree-planting planner for Montreal — map priority zones, AI intervention blueprints, planting estimates, costs (1st place virtual track, GenAI Genesis).</td>
+    <td align="left"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=FFFFFF" /></td>
+    <td align="left">2026</td>
+    <td align="left"><a href="https://github.com/Lushenwar/Eco-Pulse">Repo</a></td>
+  </tr>
+  <tr>
+    <td align="left">SettleSmart Winnipeg</td>
+    <td align="left">Neighbourhood livability explorer for newcomers using 15+ Winnipeg open datasets (Open Data Datathon).</td>
+    <td align="left"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=FFFFFF" /></td>
+    <td align="left">2026</td>
+    <td align="left"><a href="https://github.com/alex-and-ye/SettleSmart-Winnipeg">Repo</a></td>
+  </tr>
+  <tr>
+    <td align="left">ComplAInce</td>
+    <td align="left">Regulatory compliance chatbot with RAG over provincial &amp; federal rules — grounded answers with citations (Southern MB Tech Conference).</td>
+    <td align="left"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Qdrant-228B22?style=flat&logo=qdrant&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/LlamaIndex-FF6B35?style=flat&logo=llama&logoColor=FFFFFF" /></td>
+    <td align="left">2026</td>
+    <td align="left"><a href="https://github.com/tadghh/reg-compliance-chatbot">Repo</a></td>
+  </tr>
+  <tr>
+    <td align="left">Mail Maestro</td>
+    <td align="left">AI email assistant: categorize, summarize, sentiment, suggested replies (Gemini).</td>
+    <td align="left"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=FFFFFF" /></td>
+    <td align="left">2026</td>
+    <td align="left"><a href="https://github.com/MaxLan-dev/mail-maestro">Repo</a></td>
+  </tr>
+  <tr>
     <td align="left"><img src="https://img.shields.io/badge/GY_Tea-Ecommerce-FF6B35?style=for-the-badge&logo=react&logoColor=000000" alt="GY Tea" /> GY Tea E-Commerce Platform</td>
     <td align="left">Full-stack e-commerce platform for family-run tea business with product catalog, shopping cart, Square payments, order management, and admin dashboard.</td>
     <td align="left"><img src="https://img.shields.io/badge/React_Router-v7-61DAFB?style=flat&logo=react-router&logoColor=000000" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=000000" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Square_API-65D460?style=flat&logo=square&logoColor=000000" /></td>
@@ -138,7 +166,7 @@ As a **Software Developer at Online Business Systems** 💼, **Principal Softwar
   </tr>
   <tr>
     <td align="left"><img src="https://img.shields.io/badge/Project_JP-AI_Chatbot-9370DB?style=for-the-badge&logo=azure-ai&logoColor=FFFFFF" alt="Project JP" /> Project JP</td>
-    <td align="left">Comprehensive AI chatbot application for large SAAS provider, integrating Azure AI Services with .NET backend. Features real-time messaging, analytics, and Docker deployment.</td>
+    <td align="left">Comprehensive AI chatbot application for large SaaS provider, integrating Azure AI Services with .NET backend. Features real-time messaging, analytics, and Docker deployment.</td>
     <td align="left"><img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat&logo=asp.net&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Azure_AI_Services-0078D4?style=flat&logo=microsoft-azure&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=FFFFFF" /></td>
     <td align="left">May 2025 – Aug 2025</td>
     <td align="left"><a href="https://github.com/MaxLan-dev/project-jp">Repo</a></td>
@@ -148,46 +176,46 @@ As a **Software Developer at Online Business Systems** 💼, **Principal Softwar
     <td align="left">Data visualization tool analyzing transit data for enhancements, presented at DataThon 2025.</td>
     <td align="left"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=FFFFFF" /></td>
     <td align="left">Mar 2025 – Apr 2025</td>
-    <td align="left"><a href="https://github.com/MaxLan-dev/transit-improvements">Repo</a></td>
+    <td align="left"><a href="https://github.com/MaxLan-dev/Datathon">Repo</a></td>
   </tr>
   <tr>
     <td align="left"><img src="https://img.shields.io/badge/Food4U-AI_Platform-228B22?style=for-the-badge&logo=django&logoColor=FFFFFF" alt="Food4U" /> Food4U</td>
     <td align="left">AI-driven platform connecting farmers with small businesses, showcased at .DevHacks2025.</td>
     <td align="left"><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=FFFFFF" /></td>
     <td align="left">Feb 2025 – Mar 2025</td>
-    <td align="left"><a href="https://github.com/MaxLan-dev/food4u">Repo</a></td>
+    <td align="left"><a href="https://github.com/MaxLan-dev/DevHacks2025">Repo</a></td>
   </tr>
   <tr>
     <td align="left">Calorie Tracker</td>
-    <td align="left">Android app for calorie and exercise tracking with meal and exercise planning features.</td>
+    <td align="left">Android app for calorie exercise tracking with meal and exercise planning features.</td>
     <td align="left"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=000000" /> <img src="https://img.shields.io/badge/HSQLDB-FF8C00?style=flat&logo=hsqldb&logoColor=000000" /></td>
     <td align="left">Jan 2025 – Apr 2025</td>
-    <td align="left"><a href="https://github.com/MaxLan-dev/calorie-tracker">Repo</a></td>
+    <td align="left"><a href="https://github.com/MaxLan-dev/COMP3350-WEBSITE">Repo</a></td>
   </tr>
   <tr>
     <td align="left">NASA Space Apps Challenge App</td>
     <td align="left">App prioritizing exoplanets for the Habitable Worlds Observatory, received honorable mention.</td>
     <td align="left"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=FFFFFF" /></td>
     <td align="left">Oct 2024 – Nov 2024</td>
-    <td align="left"><a href="https://github.com/MaxLan-dev/nasa-space-app">Repo</a></td>
+    <td align="left"><a href="https://github.com/alex-and-ye/NASA-SPACE-APPS-PROJECT">Repo</a></td>
   </tr>
   <tr>
     <td align="left">Personal Website</td>
-    <td align="left">Portfolio website showcasing projects and technical skills with responsive design.</td>
-    <td align="left"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=FFFFFF" /></td>
+    <td align="left">Portfolio site (React, TypeScript, Tailwind, Vite) showcasing projects and skills.</td>
+    <td align="left"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=FFFFFF" /></td>
     <td align="left">Jul 2024 – Present</td>
-    <td align="left"><a href="https://github.com/MaxLan-dev/personal-website">Repo</a></td>
+    <td align="left"><a href="https://github.com/MaxLan-dev/MaxLan-dev.github.io">Repo</a></td>
   </tr>
   <tr>
     <td align="left">React Chat App</td>
-    <td align="left">Real-time chat application using React.js and Node.js with WebSocket integration.</td>
-    <td align="left"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/WebSocket-00D4AA?style=flat&logo=websocket&logoColor=000000" /></td>
+    <td align="left">Real-time chat application using React and Node.js.</td>
+    <td align="left"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=FFFFFF" /></td>
     <td align="left">Jan 2023 – Feb 2023</td>
-    <td align="left"><a href="https://github.com/MaxLan-dev/react-chat-app">Repo</a></td>
+    <td align="left"><a href="https://github.com/MaxLan-dev/Chat_app">Repo</a></td>
   </tr>
   <tr>
     <td align="left">Model Check of Temethod</td>
-    <td align="left">Program estimating Oxygen abundance in HII regions using C++ for computational modeling.</td>
+    <td align="left">Program estimating oxygen abundance in HII regions using C++ for computational modeling.</td>
     <td align="left"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/LaTeX-FCFCFC?style=flat&logo=latex&logoColor=000000" /></td>
     <td align="left">Nov 2021 – Mar 2022</td>
     <td align="left"><a href="https://github.com/MaxLan-dev/temethod-model">Repo</a></td>
@@ -210,30 +238,51 @@ As a **Software Developer at Online Business Systems** 💼, **Principal Softwar
   <img src="https://img.shields.io/badge/Achievements-FFD700?style=for-the-badge&logo=trophy&logoColor=000000" alt="Achievements" />
 </div>
 
-- 🥇 **1st Place** - Boosting Canadian Productivity Hackathon (Email Helper with NullTerminators team) · 2025  
+- 🥇 **1st Place — GenAI Genesis (Virtual Track)** — *Eco-Pulse* (AI urban tree-planting &amp; heat mitigation for Montreal) · 2026  
+  <img src="https://img.shields.io/badge/GenAI_Genesis-1st-FFD700?style=for-the-badge&logo=trophy&logoColor=000000" alt="GenAI Genesis" />  
+- 🥇 **1st Place — Boosting Canadian Productivity Hackathon** — *Email Helper* with NullTerminators · 2025  
   <img src="https://img.shields.io/badge/1st_Place-FFD700?style=for-the-badge&logo=trophy&logoColor=000000" alt="Hackathon Winner" />  
-- 🏆 **Highest Contribution Certificate** - Builders League Hackathon (UPRO Soccer Hackathon) · 2025  
+- 🗺️ **Participant — Winnipeg 2026 Open Data Datathon** — *SettleSmart Winnipeg* (neighbourhood explorer from 15+ datasets) · 2026  
+- ⚖️ **Participant — Southern MB Tech Conference Hackathon** — *ComplAInce* (RAG compliance chatbot) · 2026  
+- 🏆 **Highest Contribution Certificate** — Builders League Hackathon (UPRO Soccer Hackathon) · 2025  
   <img src="https://img.shields.io/badge/Highest_Contribution-4169E1?style=for-the-badge&logo=certificate&logoColor=FFFFFF" alt="Contribution Cert" />  
-- 🏆 **Dean's Honour List** - University of Manitoba (Jan 2024, May 2024, Aug 2024, Jan 2025, May 2025)  
+- 🏆 **Dean's Honour List** — University of Manitoba (Jan 2024, May 2024, Aug 2024, Jan 2025, May 2025)  
   <img src="https://img.shields.io/badge/Deans_Honour_List-228B22?style=for-the-badge&logo=graduation-cap&logoColor=FFFFFF" alt="Dean's List" />  
-- 🏆 **Certified ScrumMaster (CSM)** - Scrum Alliance · Nov 2025  
+- 🏆 **Certified ScrumMaster (CSM)** — Scrum Alliance · Nov 2025  
   <img src="https://img.shields.io/badge/CSM-Certified-228B22?style=for-the-badge&logo=scrum-alliance&logoColor=FFFFFF" alt="CSM Cert" />  
+
+<details>
+<summary><strong>Earlier distinctions (research &amp; competitions)</strong></summary>
+
+- Participation — Future of Ukraine Competition · Feb 2022  
+- **Projects Competition 1st Place** — Sahasak Nimavum · Sep 2020  
+- **Projects Competition 2nd Place** — iCan Canada · Aug 2020  
+- **Projects Competition 3rd Place** — Intarg Poland · Jun 2020  
+- **4th Place — ISEF 2020** (Ukraine) · Feb 2020  
+- **Competition Defense 1st Place** — Junior Academy of Sciences (Lviv Region) · Feb 2020  
+- Participation — Innovation Market · Nov 2019  
+- Participation — BiotechCon · Jun 2019  
+- **Competition Defense 3rd Place** — Junior Academy of Sciences · May 2019  
+- **Competition Defense 1st Place** — Junior Academy of Sciences (Lviv Region) · Feb 2019  
+- **Competition Defense 3rd Place** — Junior Academy of Sciences (Lviv Region) · Feb 2018  
+
+</details>
 
 ---
 
 ## 🧠 Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,sql,cpp,java,r,csharp,tensorflow,pytorch,keras,django,react,angular,vuejs,nodejs,dotnet,azure,docker,git,linux,vscode,latex" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,sql,cpp,java,r,csharp,tensorflow,pytorch,keras,django,fastapi,flask,react,angular,vuejs,vite,nodejs,dotnet,azure,docker,git,linux,vscode,latex" />
 </div>
 
 ### 💻 Programming Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFFFFF" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=FFFFFF" alt="TypeScript" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=FFFFFF" alt="SQL" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=FFFFFF" alt="C++" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=FFFFFF" alt="Java" /> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=FFFFFF" alt="R" /> <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=FFFFFF" alt="C#" />
 
 ### 🧠 AI/ML Tools
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=FFFFFF" alt="TensorFlow" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=FFFFFF" alt="PyTorch" /> <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=FFFFFF" alt="Keras" /> <img src="https://img.shields.io/badge/Llama--index-FF6B35?style=flat&logo=llama&logoColor=FFFFFF" alt="LlamaIndex" /> <img src="https://img.shields.io/badge/LangChain-8B008B?style=flat&logo=langchain&logoColor=FFFFFF" alt="LangChain" /> <img src="https://img.shields.io/badge/Qdrant-228B22?style=flat&logo=qdrant&logoColor=FFFFFF" alt="Qdrant" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=FFFFFF" alt="NumPy" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=FFFFFF" alt="Pandas" /> <img src="https://img.shields.io/badge/Matplotlib-FF1493?style=flat&logo=matplotlib&logoColor=FFFFFF" alt="Matplotlib" /> <img src="https://img.shields.io/badge/Scikit--image-FFB6C1?style=flat&logo=scikit-learn&logoColor=000000" alt="Skimage" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=FFFFFF" alt="TensorFlow" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=FFFFFF" alt="PyTorch" /> <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=FFFFFF" alt="Keras" /> <img src="https://img.shields.io/badge/Llama--index-FF6B35?style=flat&logo=llama&logoColor=FFFFFF" alt="LlamaIndex" /> <img src="https://img.shields.io/badge/LangChain-8B008B?style=flat&logo=langchain&logoColor=FFFFFF" alt="LangChain" /> <img src="https://img.shields.io/badge/Qdrant-228B22?style=flat&logo=qdrant&logoColor=FFFFFF" alt="Qdrant" /> <img src="https://img.shields.io/badge/RAG-6A5ACD?style=flat&logo=openai&logoColor=FFFFFF" alt="RAG" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=FFFFFF" alt="NumPy" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=FFFFFF" alt="Pandas" /> <img src="https://img.shields.io/badge/Matplotlib-FF1493?style=flat&logo=matplotlib&logoColor=FFFFFF" alt="Matplotlib" /> <img src="https://img.shields.io/badge/Scikit--image-FFB6C1?style=flat&logo=scikit-learn&logoColor=000000" alt="Skimage" /> <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=FFFFFF" alt="Gemini" />
 
 ### 🌐 Web Development
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=FFFFFF" alt="Django" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000" alt="React" /> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=FFFFFF" alt="Angular" /> <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=FFFFFF" alt="Vue.js" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=FFFFFF" alt="Node.js" /> <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=FFFFFF" alt=".NET Core" /> <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat&logo=asp.net&logoColor=FFFFFF" alt="ASP.NET Core" /> <img src="https://img.shields.io/badge/SQLAlchemy-FFA500?style=flat&logo=sqlalchemy&logoColor=000000" alt="SQLAlchemy" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=FFFFFF" alt="HTML/CSS" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=FFFFFF" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=FFFFFF" alt="Redux" /> <img src="https://img.shields.io/badge/React_Router-v7-61DAFB?style=flat&logo=react-router&logoColor=000000" alt="React Router" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=FFFFFF" alt="Django" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=FFFFFF" alt="FastAPI" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=FFFFFF" alt="Flask" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000" alt="React" /> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=FFFFFF" alt="Angular" /> <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=FFFFFF" alt="Vue.js" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=FFFFFF" alt="Node.js" /> <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=FFFFFF" alt=".NET Core" /> <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat&logo=asp.net&logoColor=FFFFFF" alt="ASP.NET Core" /> <img src="https://img.shields.io/badge/SQLAlchemy-FFA500?style=flat&logo=sqlalchemy&logoColor=000000" alt="SQLAlchemy" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=FFFFFF" alt="HTML/CSS" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=FFFFFF" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=FFFFFF" alt="Redux" /> <img src="https://img.shields.io/badge/React_Router-v7-61DAFB?style=flat&logo=react-router&logoColor=000000" alt="React Router" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=FFFFFF" alt="Vite" />
 
 ### ☁️ Cloud & DevOps
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=FFFFFF" alt="Azure" /> <img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat&logo=azure-devops&logoColor=FFFFFF" alt="Azure DevOps" /> <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat&logo=microsoft-azure&logoColor=FFFFFF" alt="Azure Data Factory" /> <img src="https://img.shields.io/badge/Azure_AI_Services-0078D4?style=flat&logo=microsoft-azure&logoColor=FFFFFF" alt="Azure AI Services" /> <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat&logo=openai&logoColor=FFFFFF" alt="Azure OpenAI" /> <img src="https://img.shields.io/badge/CI/CD-228B22?style=flat&logo=jenkins&logoColor=FFFFFF" alt="CI/CD" /> <img src="https://img.shields.io/badge/ETL-8B008B?style=flat&logo=apache-airflow&logoColor=FFFFFF" alt="ETL" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=FFFFFF" alt="Docker" /> <img src="https://img.shields.io/badge/Microservices-326CE5?style=flat&logo=kubernetes&logoColor=FFFFFF" alt="Microservices" /> <img src="https://img.shields.io/badge/Multi--tenant-FFA500?style=flat&logo=cloud&logoColor=000000" alt="Multi-tenant" />
