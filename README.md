@@ -7,7 +7,7 @@
 With a **3.90/4.5 GPA** 🎓, I'm a *University Speedrun* enthusiast, completing a 4-year program in just **2.5 years** ⚡.  
 As a **Software Developer at CGI** (formerly **Online Business Systems**) 💼, **Principal Software Developer at GY Tea** ☕, **co-founder and CEO of GroupBuy** 🚀, and **former executive of tech clubs** 🤝, I love building things that matter.  
 
-🌐 Check out my [personal website](https://maxlan-dev.github.io) for more on my projects and passions!  
+🌐 Check out my [personal website](https://maksym-lan-personal-website.vercel.app/) for more on my projects and passions!  
 
 🌟 **Explore my repos, connect, and let's collaborate on AI-driven innovations!**  
 
