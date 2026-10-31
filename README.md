@@ -98,18 +98,18 @@ Discovered that software ships faster than stars collapse. Stayed for the deploy
 
 ## The path so far
 
-| | Milestone | When | Outcome |
-|:--:|:---|:---|:---|
-| <img src="assets/icons/star.svg" width="20" height="20" alt="" /> | Neutron star mass research | 2019 | Mass distribution analysis in Python |
-| <img src="assets/icons/leaf.svg" width="20" height="20" alt="" /> | SorbMax, biodegradable industrial filters | 2019 | Founder and CEO |
-| <img src="assets/icons/award.svg" width="20" height="20" alt="" /> | ISEF Ukraine | 2020 | 4th place |
-| <img src="assets/icons/globe.svg" width="20" height="20" alt="" /> | Prowir | 2020 | CEO and developer, pitched to global clients |
-| <img src="assets/icons/degree.svg" width="20" height="20" alt="" /> | BSc Computer Science, University of Manitoba | Jan 2023 → Aug 2025 | Finished 1.5 years early, 3.90 / 4.5, five Dean's Honour Lists |
-| <img src="assets/icons/nodes.svg" width="20" height="20" alt="" /> | Production RAG at Resilient AG | Apr 2024 → | 10,000+ concurrent users |
-| <img src="assets/icons/building.svg" width="20" height="20" alt="" /> | CGI (formerly Online Business Systems) | Aug 2025 → | Enterprise platforms, Government of Manitoba eLicensing |
-| <img src="assets/icons/trophy.svg" width="20" height="20" alt="" /> | Two hackathon wins | 2025, 2026 | Email Helper, Eco-Pulse |
-| <img src="assets/icons/branch.svg" width="20" height="20" alt="" /> | AgentGit | 2026 | Completed pet project for Cresta |
-| <img src="assets/icons/pulse.svg" width="20" height="20" alt="" /> | Hrove | Now | In active development |
+| Milestone | When | Outcome |
+|:---|:---|:---|
+| <img src="assets/icons/star.svg" width="20" height="20" alt="" /> &nbsp;Neutron star mass research | 2019 | Mass distribution analysis in Python |
+| <img src="assets/icons/leaf.svg" width="20" height="20" alt="" /> &nbsp;SorbMax, biodegradable industrial filters | 2019 | Founder and CEO |
+| <img src="assets/icons/award.svg" width="20" height="20" alt="" /> &nbsp;ISEF Ukraine | 2020 | 4th place |
+| <img src="assets/icons/globe.svg" width="20" height="20" alt="" /> &nbsp;Prowir | 2020 | CEO and developer, pitched to global clients |
+| <img src="assets/icons/degree.svg" width="20" height="20" alt="" /> &nbsp;BSc Computer Science, University of Manitoba | Jan 2023 → Aug 2025 | Finished 1.5 years early, 3.90 / 4.5, five Dean's Honour Lists |
+| <img src="assets/icons/nodes.svg" width="20" height="20" alt="" /> &nbsp;Production RAG at Resilient AG | Apr 2024 → | 10,000+ concurrent users |
+| <img src="assets/icons/building.svg" width="20" height="20" alt="" /> &nbsp;CGI (formerly Online Business Systems) | Aug 2025 → | Enterprise platforms, Government of Manitoba eLicensing |
+| <img src="assets/icons/trophy.svg" width="20" height="20" alt="" /> &nbsp;Two hackathon wins | 2025, 2026 | Email Helper, Eco-Pulse |
+| <img src="assets/icons/branch.svg" width="20" height="20" alt="" /> &nbsp;AgentGit | 2026 | Completed pet project for Cresta |
+| <img src="assets/icons/pulse.svg" width="20" height="20" alt="" /> &nbsp;Hrove | Now | In active development |
 
 ---
 
