@@ -55,28 +55,26 @@ Discovered that software ships faster than stars collapse. Stayed for the deploy
 
 ## 🌳 `git log --graph --life`
 
-```mermaid
-gitGraph TB:
-  commit id: "2019: neutron stars + SorbMax"
-  commit id: "2020: ISEF Ukraine + Prowir"
-  commit id: "2022: Te-method model"
-  branch university
-  commit id: "2023: U of Manitoba"
-  commit id: "2023: co-founds Programming Projects Club"
-  commit id: "2024: VP, AI Club"
-  branch work
-  commit id: "2024: Resilient AG"
-  checkout university
-  commit id: "2024: NASA Space Apps"
-  commit id: "2025: Food4U at .DevHacks"
-  commit id: "2025: graduates in 2.5 years" type: HIGHLIGHT
-  checkout work
-  merge university
-  commit id: "2025: CGI + GY Tea + GroupBuy"
-  commit id: "2026: Eco-Pulse wins GenAI Genesis" type: HIGHLIGHT
-  commit id: "2026: ZoneSmart"
-  commit id: "2026: TriageFlow + Velocistock"
-  commit id: "2026: Hrove + AgentGit" tag: "HEAD"
+```console
+$ git log --graph --life --oneline
+* 2026 (HEAD -> main) Hrove + AgentGit
+* 2026 TriageFlow + Velocistock
+* 2026 ZoneSmart: Canadian zoning data, queryable
+* 2026 Eco-Pulse takes 1st at GenAI Genesis
+* 2025 CGI + GY Tea + GroupBuy
+*   2025 Merge branch 'university' into work
+|\
+| * 2025 Graduate in 2.5 years (saved 1.5)
+| * 2025 Food4U at .DevHacks
+| * 2024 NASA Space Apps, honorable mention
+* | 2024 Start Resilient AG: production RAG
+|/
+* 2024 VP, AI Club
+* 2023 Co-found Programming Projects Club
+* 2023 Enroll at U of Manitoba
+* 2022 Te-method model: oxygen in HII regions
+* 2020 ISEF Ukraine + Prowir
+* 2019 Neutron stars + SorbMax
 ```
 
 ---
