@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4c1d95,100:0d9488&height=210&section=header&text=Maksym%20Lan&fontColor=ffffff&fontSize=62&fontAlignY=36&desc=From%20neutron%20stars%20to%20neural%20nets&descAlignY=58&descSize=20" alt="Maksym Lan: from neutron stars to neural nets" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=2DD4BF&center=true&vCenter=true&width=620&lines=Speedran+a+4-year+CS+degree+in+2.5+years;Now+shipping+health+apps%2C+voice+agents+and+tea;Runs+on+RAG%2C+.NET+and+green+tea" alt="Speedran a 4-year CS degree in 2.5 years. Now shipping health apps, voice agents and tea." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=2DD4BF&center=true&vCenter=true&width=620&lines=Speedran+a+4-year+CS+degree+in+2.5+years;Now+shipping+health+apps%2C+AI+tools+and+tea;Runs+on+RAG%2C+.NET+and+green+tea" alt="Speedran a 4-year CS degree in 2.5 years. Now shipping health apps, AI tools and tea." />
 
 <a href="https://maksym-lan-personal-website.vercel.app/"><img src="https://img.shields.io/badge/portfolio-visit-0d9488?style=flat-square" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/maksym-lan/"><img src="https://img.shields.io/badge/linkedin-connect-4c1d95?style=flat-square" alt="LinkedIn" /></a>
@@ -22,125 +22,72 @@ Discovered that software ships faster than stars collapse. Stayed for the deploy
 
 ---
 
-## 📦 Latest release: `v2026.10`
-
-> **Patch notes for October.** 80 commits across 4 projects. 🔒 means the code lives in a private repo.
-
-| | Project | What's new |
-|:--:|:---|:---|
-| 🌿 | **[Hrove](https://hrove.vercel.app/)** 🔒 | 49 commits. A privacy-first, local-first platform for sustaining focus and managing fatigue. Phone-style navigation, iOS and Android builds, and a round of fixes straight from testers. |
-| 🎙️ | **AgentGit** 🔒 | 25 commits, built in about a week. *What if a voice agent was just a git repo?* An AI composer patches the agent, makes one commit per request, and every commit can be called, evaluated, reverted or branched. |
-| 🍵 | **[G&Y Tea](https://gytea.ca/)** 🔒 | Local pickup arrived: new location, a pickup admin panel, an updated checkout, plus product photo uploads and better page indexing. |
-| 📬 | **[Outreach Agent](https://github.com/MaxLan-dev/agents-stuff)** | Set a goal, run discovery, approve the sends. Next.js, Mastra workflows, Neon, Exa and AgentMail. |
-
----
-
-## 🏃 Speedrun splits
-
-*Category: Any% Software Engineer. Runner's note: no save scumming, one very full calendar.*
-
-| Split | Time | Result |
-|:---|:---|:---|
-| 🔭 Neutron star mass research | 2019 | Mass distribution analysis in Python |
-| ♻️ Biodegradable industrial filters (SorbMax) | 2019 | Founder and CEO |
-| 🥇 ISEF Ukraine | 2020 | 4th place |
-| 🌐 Prowir | 2020 | CEO and developer, pitched to global clients |
-| 🎓 BSc Computer Science, U of Manitoba | Jan 2023 → Aug 2025 | **−1.5 years** ⚡ 3.90 / 4.5, five Dean's Honour Lists |
-| 🤖 Production RAG at Resilient AG | Apr 2024 → | 10,000+ concurrent users |
-| 🏢 CGI (formerly Online Business Systems) | Aug 2025 → | Enterprise platforms, Government of Manitoba eLicensing |
-| 🥇 Two hackathon wins | 2025, 2026 | Email Helper, Eco-Pulse |
-| 🌿 Hrove and AgentGit | **live split** | *Still running. Do not reset.* |
-
----
-
-## 🌳 `git log --graph --life`
-
-```console
-$ git log --graph --life --oneline
-* 2026 (HEAD -> main) Hrove + AgentGit
-* 2026 TriageFlow + Velocistock
-* 2026 ZoneSmart: Canadian zoning data, queryable
-* 2026 Eco-Pulse takes 1st at GenAI Genesis
-* 2025 CGI + GY Tea + GroupBuy
-*   2025 Merge branch 'university' into work
-|\
-| * 2025 Graduate in 2.5 years (saved 1.5)
-| * 2025 Food4U at .DevHacks
-| * 2024 NASA Space Apps, honorable mention
-* | 2024 Start Resilient AG: production RAG
-|/
-* 2024 VP, AI Club
-* 2023 Co-found Programming Projects Club
-* 2023 Enroll at U of Manitoba
-* 2022 Te-method model: oxygen in HII regions
-* 2020 ISEF Ukraine + Prowir
-* 2019 Neutron stars + SorbMax
-```
-
----
-
-## 🎒 Inventory
+## Selected work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌳 <a href="https://github.com/Lushenwar/Eco-Pulse">Eco-Pulse</a></h3>
-      <sub>🥇 <b>GenAI Genesis, virtual track</b></sub><br /><br />
-      AI heat mitigation for Montreal: priority zones on a map, intervention blueprints, planting estimates and costs.<br /><br />
-      <code>React</code> <code>FastAPI</code> <code>Gemini</code> <code>Leaflet</code>
+      <img src="assets/icons/pulse.svg" width="28" height="28" alt="" /><br />
+      <b><a href="https://hrove.vercel.app/">Hrove</a></b> · <sub>in active development</sub><br /><br />
+      A privacy-first, local-first platform for sustaining focus and managing fatigue, on iOS and Android.<br /><br />
+      <code>React Native</code> <code>Expo</code> <code>Supabase</code> <code>HealthKit</code>
     </td>
     <td width="50%" valign="top">
-      <h3>🏘️ <a href="https://github.com/MaxLan-dev/zoning-app">ZoneSmart</a></h3>
-      <sub><b>Canadian zoning data platform</b></sub><br /><br />
-      Turns municipal bylaws scattered across PDFs and websites into a searchable, queryable dataset, with RAG on top.<br /><br />
+      <img src="assets/icons/branch.svg" width="28" height="28" alt="" /><br />
+      <b>AgentGit</b> · <sub>completed pet project for Cresta</sub><br /><br />
+      A voice agent as a git repo: an AI composer patches it with one commit per request, and any commit can be called, evaluated, reverted or branched.<br /><br />
+      <code>FastAPI</code> <code>React</code> <code>Monaco</code> <code>Voice</code>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="assets/icons/cup.svg" width="28" height="28" alt="" /><br />
+      <b><a href="https://gytea.ca/">G&amp;Y Tea</a></b> · <sub>live store</sub><br /><br />
+      Full e-commerce for a family-run tea business: catalog, Square payments, local pickup and an admin dashboard.<br /><br />
+      <code>React Router</code> <code>TypeScript</code> <code>Supabase</code> <code>Netlify</code>
+    </td>
+    <td valign="top">
+      <img src="assets/icons/tree.svg" width="28" height="28" alt="" /><br />
+      <b><a href="https://github.com/Lushenwar/Eco-Pulse">Eco-Pulse</a></b> · <sub>1st place, GenAI Genesis virtual track</sub><br /><br />
+      AI heat mitigation and tree planting for Montreal: priority zones, intervention blueprints and cost estimates.<br /><br />
+      <code>React</code> <code>FastAPI</code> <code>Gemini</code> <code>Leaflet</code>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="assets/icons/zone.svg" width="28" height="28" alt="" /><br />
+      <b><a href="https://github.com/MaxLan-dev/zoning-app">ZoneSmart</a></b> · <sub>Canadian zoning data</sub><br /><br />
+      Turns municipal bylaws scattered across PDFs and websites into a searchable dataset, with RAG on top.<br /><br />
       <code>Flask</code> <code>React</code> <code>Qdrant</code> <code>Groq</code>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
-      <h3>🏥 TriageFlow 🔒</h3>
-      <sub><b>ER workflow prototype, fictional data only</b></sub><br /><br />
-      Nurse intake, an AI-drafted clinician summary, deterministic CTAS rules and a live physician queue. The nurse always makes the final call.<br /><br />
-      <code>TypeScript</code> <code>PostgreSQL</code> <code>LLM + rules engine</code>
-    </td>
-    <td valign="top">
-      <h3>📦 <a href="https://velocistock.vercel.app">Velocistock</a> 🔒</h3>
-      <sub><b>Surplus inventory recovery</b></sub><br /><br />
-      The site for a Winnipeg B2B service that helps manufacturers turn dead stock into recovered value.<br /><br />
-      <code>Next.js</code> <code>TypeScript</code> <code>Vercel</code>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3>✉️ <a href="https://github.com/MaxLan-dev/mail-maestro">Mail Maestro</a></h3>
-      <sub><b>Inbox triage with Gemini</b></sub><br /><br />
-      An AI email assistant that categorizes, summarizes, reads sentiment and suggests replies.<br /><br />
-      <code>React</code> <code>Vite</code> <code>Tailwind</code> <code>Gemini</code>
-    </td>
-    <td valign="top">
-      <h3>🗺️ <a href="https://github.com/alex-and-ye/SettleSmart-Winnipeg">SettleSmart Winnipeg</a></h3>
-      <sub><b>Winnipeg Open Data Datathon 2026</b></sub><br /><br />
-      A neighbourhood livability explorer for newcomers, built on 15+ open datasets.<br /><br />
-      <code>Python</code> <code>Flask</code> <code>React</code> <code>TypeScript</code>
+      <img src="assets/icons/care.svg" width="28" height="28" alt="" /><br />
+      <b>TriageFlow</b> · <sub>prototype, fictional data only</sub><br /><br />
+      ER workflow with nurse intake, AI-drafted summaries, deterministic CTAS rules and a live physician queue. The nurse makes the final call.<br /><br />
+      <code>TypeScript</code> <code>PostgreSQL</code> <code>LLM</code> <code>Rules engine</code>
     </td>
   </tr>
 </table>
 
 <details>
-<summary><b>🗃️ Open the archive: 11 more builds</b></summary>
+<summary><b>More projects</b></summary>
 
 <br />
 
 | Project | What it does | Stack | When |
 |:---|:---|:---|:---|
-| [ComplAInce](https://github.com/tadghh/reg-compliance-chatbot) | RAG compliance chatbot over provincial and federal rules, with citations | React, Flask, OpenAI, Qdrant, LlamaIndex | 2026 |
+| [Velocistock](https://velocistock.vercel.app) | Site for a Winnipeg B2B service recovering value from surplus inventory | Next.js, TypeScript | 2026 |
+| [Outreach Agent](https://github.com/MaxLan-dev/agents-stuff) | Set a goal, run discovery, approve the sends | Next.js, Mastra, Neon, Exa | 2026 |
+| [SettleSmart Winnipeg](https://github.com/alex-and-ye/SettleSmart-Winnipeg) | Neighbourhood explorer for newcomers from 15+ open datasets | Python, Flask, React | 2026 |
+| [ComplAInce](https://github.com/tadghh/reg-compliance-chatbot) | RAG compliance chatbot over provincial and federal rules, with citations | React, Flask, OpenAI, Qdrant | 2026 |
+| [Mail Maestro](https://github.com/MaxLan-dev/mail-maestro) | AI email assistant: categorize, summarize, suggest replies | React, Vite, Gemini | 2025 |
+| [Email Helper](https://github.com/MaxLan-dev/Email-Helper) | 1st place, Boosting Canadian Productivity Hackathon, with NullTerminators | | 2025 |
 | [Winnipeg Transit Improvements](https://github.com/MaxLan-dev/Datathon) | Transit data visualization, DataThon 2025 | Python, Django, Pandas | 2025 |
 | [Food4U](https://github.com/MaxLan-dev/DevHacks2025) | AI platform connecting farmers with small businesses, .DevHacks 2025 | Django, Python, Tailwind | 2025 |
 | [Calorie Tracker](https://github.com/MaxLan-dev/COMP3350-WEBSITE) | Android meal and exercise planning | Java, Android, HSQLDB | 2025 |
-| Project JP | AI chatbot for a large SaaS provider: real-time messaging and analytics | C#, ASP.NET Core, Azure AI, Docker | 2025 |
-| [Email Helper](https://github.com/MaxLan-dev/Email-Helper) | 🥇 Boosting Canadian Productivity Hackathon, with NullTerminators | | 2025 |
+| Project JP | AI chatbot for a large SaaS provider | C#, ASP.NET Core, Azure AI, Docker | 2025 |
 | [NASA Space Apps](https://github.com/alex-and-ye/NASA-SPACE-APPS-PROJECT) | Prioritizes exoplanets for the Habitable Worlds Observatory, honorable mention | Python, Django, NumPy | 2024 |
-| [Portfolio](https://github.com/MaxLan-dev/Maksym-Lan-Personal-Website) | This whole story, with better lighting | React, TypeScript, Tailwind, Vite | 2024 → |
+| [Portfolio](https://github.com/MaxLan-dev/Maksym-Lan-Personal-Website) | Personal site | React, TypeScript, Tailwind, Vite | 2024 → |
 | [React Chat App](https://github.com/MaxLan-dev/Chat_app) | Real-time chat | React, Node.js, Tailwind | 2023 |
 | Te-method Model Check | Estimates oxygen abundance in HII regions | C++, LaTeX | 2021–22 |
 | Maximum Masses of Neutron Stars | Analysis of neutron star mass distributions | Python, Pandas, Matplotlib | 2019–20 |
@@ -149,7 +96,24 @@ $ git log --graph --life --oneline
 
 ---
 
-## 🧠 Skill tree
+## The path so far
+
+| | Milestone | When | Outcome |
+|:--:|:---|:---|:---|
+| <img src="assets/icons/star.svg" width="20" height="20" alt="" /> | Neutron star mass research | 2019 | Mass distribution analysis in Python |
+| <img src="assets/icons/leaf.svg" width="20" height="20" alt="" /> | SorbMax, biodegradable industrial filters | 2019 | Founder and CEO |
+| <img src="assets/icons/award.svg" width="20" height="20" alt="" /> | ISEF Ukraine | 2020 | 4th place |
+| <img src="assets/icons/globe.svg" width="20" height="20" alt="" /> | Prowir | 2020 | CEO and developer, pitched to global clients |
+| <img src="assets/icons/degree.svg" width="20" height="20" alt="" /> | BSc Computer Science, University of Manitoba | Jan 2023 → Aug 2025 | Finished 1.5 years early, 3.90 / 4.5, five Dean's Honour Lists |
+| <img src="assets/icons/nodes.svg" width="20" height="20" alt="" /> | Production RAG at Resilient AG | Apr 2024 → | 10,000+ concurrent users |
+| <img src="assets/icons/building.svg" width="20" height="20" alt="" /> | CGI (formerly Online Business Systems) | Aug 2025 → | Enterprise platforms, Government of Manitoba eLicensing |
+| <img src="assets/icons/trophy.svg" width="20" height="20" alt="" /> | Two hackathon wins | 2025, 2026 | Email Helper, Eco-Pulse |
+| <img src="assets/icons/branch.svg" width="20" height="20" alt="" /> | AgentGit | 2026 | Completed pet project for Cresta |
+| <img src="assets/icons/pulse.svg" width="20" height="20" alt="" /> | Hrove | Now | In active development |
+
+---
+
+## Tech stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,cs,cpp,java,r,postgres&perline=8" alt="Python, TypeScript, JavaScript, C#, C++, Java, R, PostgreSQL" /><br />
@@ -159,27 +123,27 @@ $ git log --graph --life --oneline
 
 <br />
 
-| Build | Tools |
-|:---|:---|
-| 🤖 **AI** | RAG, LlamaIndex, LangChain, Qdrant, Azure OpenAI, Azure AI Services, Gemini, Keras, voice pipelines, evals |
-| 🏗️ **Backend** | .NET microservices, Django, FastAPI, Flask, SQLAlchemy, SQL Server, multi-tenant systems |
-| 📱 **Product** | React Native, Expo, React Router v7, Redux, Square payments, HealthKit, Health Connect |
-| ☁️ **Ops** | Azure DevOps, Azure Data Factory, ETL, CI/CD, Netlify, Vercel, Fly.io, Linux |
-| 🧭 **People** | Certified ScrumMaster, Agile delivery, team leadership, event organization, mentoring |
+**AI:** RAG, LlamaIndex, LangChain, Qdrant, Azure OpenAI, Azure AI Services, Gemini, Keras, voice pipelines, evals
+
+**Backend:** .NET microservices, Django, FastAPI, Flask, SQLAlchemy, SQL Server, multi-tenant systems
+
+**Product:** React Native, Expo, React Router v7, Redux, Square payments, HealthKit, Health Connect
+
+**Ops:** Azure DevOps, Azure Data Factory, ETL, CI/CD, Netlify, Vercel, Fly.io, Linux
 
 ---
 
-## 🏆 Trophy room
+## Recognition
 
-- 🥇 **1st place, GenAI Genesis (virtual track):** Eco-Pulse, 2026
-- 🥇 **1st place, Boosting Canadian Productivity Hackathon:** Email Helper with NullTerminators, 2025
-- 🏅 **Highest Contribution Certificate:** Builders League Hackathon (UPRO Soccer), 2025
-- 🛰️ **Honorable mention:** NASA Space Apps Challenge, 2024
-- 🎓 **Dean's Honour List:** Jan, May and Aug 2024, Jan and May 2025
-- 🧭 **Certified ScrumMaster:** Scrum Alliance, Nov 2025
+- **1st place, GenAI Genesis (virtual track):** Eco-Pulse, 2026
+- **1st place, Boosting Canadian Productivity Hackathon:** Email Helper with NullTerminators, 2025
+- **Highest Contribution Certificate:** Builders League Hackathon (UPRO Soccer), 2025
+- **Honorable mention:** NASA Space Apps Challenge, 2024
+- **Dean's Honour List:** Jan, May and Aug 2024, Jan and May 2025
+- **Certified ScrumMaster:** Scrum Alliance, Nov 2025
 
 <details>
-<summary><b>🔬 Earlier distinctions: the science fair era</b></summary>
+<summary><b>Earlier distinctions</b></summary>
 
 <br />
 
@@ -199,10 +163,10 @@ $ git log --graph --life --oneline
 
 ---
 
-## 📜 Full changelog
+## Background
 
 <details>
-<summary><b>💼 Experience</b></summary>
+<summary><b>Experience</b></summary>
 
 <br />
 
@@ -230,7 +194,7 @@ Founded a startup producing biodegradable industrial filters and oversaw project
 </details>
 
 <details>
-<summary><b>🎓 Education & leadership</b></summary>
+<summary><b>Education and leadership</b></summary>
 
 <br />
 
